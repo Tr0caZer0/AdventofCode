@@ -17,8 +17,7 @@ public class AdventOne {
 	public static HashMap<String,String> numberArray = new HashMap<>();
 	public static void main(String[] args) {
 		addToMap();
-		readDoc();
-		
+		readDoc(); 
 		StringBuilder convertInt = new StringBuilder();
 		
 		for(String temp : addIntegerToList) {

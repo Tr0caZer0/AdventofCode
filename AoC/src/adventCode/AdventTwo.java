@@ -10,7 +10,7 @@ public class AdventTwo {
 	}
 
 	private static int readDoc() {
-		
+		 
 		int count = 0;
 		int sum = 0;
 		
