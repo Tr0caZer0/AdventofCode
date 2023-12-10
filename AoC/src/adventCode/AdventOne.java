@@ -66,7 +66,7 @@ public class AdventOne {
 		numberArray.put("five", "5");
 		numberArray.put("six", "6");
 		numberArray.put("seven", "7");
-		numberArray.put("eight", "8");
+		numberArray.put("eight", "8"); 
 		numberArray.put("nine", "9");
 		
 	}
